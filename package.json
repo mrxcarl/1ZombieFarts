@@ -1,0 +1,25 @@
+{
+  "name": "zombiefarts",
+  "version": "1.0.0",
+  "description": "A discord bot. Just for fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrxcarl/1ZombieFarts.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord",
+    "fun"
+  ],
+  "author": "Jason C. Klein",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mrxcarl/1ZombieFarts/issues"
+  },
+  "homepage": "https://github.com/mrxcarl/1ZombieFarts#readme"
+}
