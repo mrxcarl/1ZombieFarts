@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mrxcarl/1ZombieFarts/issues"
   },
-  "homepage": "https://github.com/mrxcarl/1ZombieFarts#readme"
+  "homepage": "https://github.com/mrxcarl/1ZombieFarts#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
 }
