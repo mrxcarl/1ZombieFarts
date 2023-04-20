@@ -9,8 +9,8 @@ client.on("ready", () => {
 })
 
 client.on("message", msg => {
-  if (msg.content === "ping") {
-    msg.reply("pong");
+  if (msg.content === "Hi") {
+    msg.reply("I'm still in development. Check for more updates later");
   }
 })
 
